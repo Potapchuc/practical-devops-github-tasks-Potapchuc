@@ -1,0 +1,5 @@
+.[oa]
+target
+.classpath
+doc/*.txt
+doc/**/*.txt
