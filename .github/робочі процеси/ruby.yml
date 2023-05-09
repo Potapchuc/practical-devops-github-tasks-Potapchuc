@@ -39,6 +39,6 @@ jobs:
       - name: Run tests
         env:
           URL: ${{ github.repository }}
-          TOKEN: ${{steps.my-app.outputs.token }}  
+          TOKEN: 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
         run: 
           ruby test/script_test.rb
